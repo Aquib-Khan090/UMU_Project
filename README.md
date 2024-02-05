@@ -1,4 +1,4 @@
 # UMU_Project
 This is my first Repository
 <br>
-Author - Mr. Aquib Khan
+Author - Mr. Aquib Khan (Usha Martin University)
